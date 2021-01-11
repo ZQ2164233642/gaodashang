@@ -1,6 +1,6 @@
-window.onload=function{
+window.onload=function(){
 	var btn=document.getElementById("btn");
-	btn.click()=function{
-		local.href="http://www.baidu.com"
+	btn.onclick=function{
+		localhost.href="http://www.baidu.com"
 	}
 }
